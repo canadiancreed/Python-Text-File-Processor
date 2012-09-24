@@ -1,0 +1,3 @@
+Been looking to apply for jobs in the python space, and wanted to broaden my horizons eventually in the webapp world, so decided to post up something simple on here for future reference.
+
+Here's I've authored a simple app that takes all text files in a directory, parses them, and then saves them into a MySQLdb. Using version 2.7, I tried to make this app follow as much OO as possible, even for what there is.
